@@ -1,0 +1,16 @@
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\bin\Debug\net5.0\Rout_LINQ_S1.exe
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\bin\Debug\net5.0\Rout_LINQ_S1.deps.json
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\bin\Debug\net5.0\Rout_LINQ_S1.runtimeconfig.json
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\bin\Debug\net5.0\Rout_LINQ_S1.runtimeconfig.dev.json
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\bin\Debug\net5.0\Rout_LINQ_S1.dll
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\bin\Debug\net5.0\Rout_LINQ_S1.pdb
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\Rout_LINQ_S1.csproj.AssemblyReference.cache
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\Rout_LINQ_S1.GeneratedMSBuildEditorConfig.editorconfig
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\Rout_LINQ_S1.AssemblyInfoInputs.cache
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\Rout_LINQ_S1.AssemblyInfo.cs
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\Rout_LINQ_S1.csproj.CoreCompileInputs.cache
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\Rout_LINQ_S1.dll
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\refint\Rout_LINQ_S1.dll
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\Rout_LINQ_S1.pdb
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\Rout_LINQ_S1.genruntimeconfig.cache
+U:\projects with c#\Rout_LINQ_S1\Rout_LINQ_S1\obj\Debug\net5.0\ref\Rout_LINQ_S1.dll
